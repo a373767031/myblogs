@@ -2,36 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82c00f42-96e2-4202-8996-63cfc36feb70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/数据库/MySQL.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/数据库/MySql_distributed.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/数据库/MySql_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/数据库/MySql_lock.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/数据库/MySql_optimization.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/数据库/MySql_skill.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/数据库/MySql_trasaction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/数据库/Redis/缓存穿透、缓存雪崩和缓存击穿.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/数据库/Redis_hot.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/数据库/update会锁表吗？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/数据库/主从-读写分离/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/数据库/分库分表/基本思路.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/数据库/分库分表/最佳实践.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/数据库/分库分表/电商订单系统分库分表.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/服务器/AB压力测试工具.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/服务器/JPS-Java进程状态工具.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/服务器/Linux 系统监控工具.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/服务器/Linux中find常见用法示例.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/服务器/Linux常用命令.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/服务器/Linux查看进程运行的完整路径方法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/服务器/Linux远程拷贝同步命令案例.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/服务器/Nginx参数配置说明.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/服务器/Nginx进阶配置.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/服务器/Tomcat最佳实践.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/服务器/linux下用top命令查看cpu利用率超过100%.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/服务器/linux如何修改默认SSH端口.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/服务器/创建一个SVN项目,md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/编程环境和软件工具安装/手册下载.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sidebar.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sidebar.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/p1/Git工具安装.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/编程环境和软件工具安装/Git工具安装.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/p1/JDK安装.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/编程环境和软件工具安装/JDK安装.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,12 +14,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/_sidebar.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="312">
-                <caret line="7" column="55" lean-forward="true" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+              <first_editor relative-caret-position="144">
+                <caret line="4" column="37" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="37" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/docs/编程环境和软件工具安装/手册下载.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="24">
+                <caret column="30" selection-start-column="30" selection-end-column="30" />
               </first_editor>
               <second_editor />
             </state>
@@ -58,7 +43,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="144">
-                <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+                <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -78,11 +63,23 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/数据库/MySql_index.md">
+        <entry file="file://$PROJECT_DIR$/docs/数据库/MySql_trasaction.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="96">
                 <caret line="2" selection-start-line="2" selection-end-line="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docs/数据库/MySql_distributed.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="216">
+                <caret line="10" column="97" selection-start-line="10" selection-start-column="97" selection-end-line="10" selection-end-column="97" />
               </first_editor>
               <second_editor />
             </state>
@@ -109,6 +106,7 @@
         <option value="$PROJECT_DIR$/docs/数据库/Redis_hot.md" />
         <option value="$PROJECT_DIR$/docs/数据库/update会锁表吗？.md" />
         <option value="$PROJECT_DIR$/docs/_sidebar.md" />
+        <option value="$PROJECT_DIR$/docs/编程环境和软件工具安装/手册下载.md" />
       </list>
     </option>
   </component>
@@ -161,7 +159,7 @@
               <item name="myblogs" type="b2602c69:ProjectViewProjectNode" />
               <item name="myblogs" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="数据库" type="462c0819:PsiDirectoryNode" />
+              <item name="文件下载" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myblogs" type="b2602c69:ProjectViewProjectNode" />
@@ -178,12 +176,19 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594331374149" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Aa\Git\myblogs\docs\文件下载\编程环境和软件工具安装" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Aa\Git\myblogs\docs" />
     </key>
@@ -212,17 +217,17 @@
       <updated>1594122659100</updated>
       <workItem from="1594122660869" duration="175000" />
       <workItem from="1594256126632" duration="57000" />
-      <workItem from="1594329804949" duration="735000" />
+      <workItem from="1594329804949" duration="1567000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="967000" />
+    <option name="totallyTimeSpent" value="1799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -241,7 +246,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -299,30 +304,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/数据库/MySql_trasaction.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="96">
-            <caret line="2" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/数据库/update会锁表吗？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="96">
-            <caret line="2" selection-start-line="2" selection-end-line="2" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/数据库/MySql_distributed.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="168">
             <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
@@ -343,7 +328,17 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="144">
-            <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/数据库/MySql_index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-4079">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
           </first_editor>
           <second_editor />
         </state>
@@ -359,7 +354,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/数据库/MySql_index.md">
+    <entry file="file://$PROJECT_DIR$/docs/数据库/MySql_trasaction.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="96">
@@ -369,11 +364,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/数据库/MySql_distributed.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="216">
+            <caret line="10" column="97" selection-start-line="10" selection-start-column="97" selection-end-line="10" selection-end-column="97" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/编程环境和软件工具安装/JDK安装.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/_sidebar.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="312">
-            <caret line="7" column="55" lean-forward="true" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
+          <first_editor relative-caret-position="144">
+            <caret line="4" column="37" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="37" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/编程环境和软件工具安装/手册下载.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="24">
+            <caret column="30" selection-start-column="30" selection-end-column="30" />
           </first_editor>
           <second_editor />
         </state>
