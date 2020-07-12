@@ -8,5 +8,5 @@
   - [索引](database/MySql_index.md)
   - [Redis为什么使用单进程单线程方式也这么快](database/Redis_hot.md)
 - 服务器
-- 总结
-  - [异常归纳](summary/异常归纳.md)
+- 异常归纳
+  - [](summary/abnormalInduction.md)
